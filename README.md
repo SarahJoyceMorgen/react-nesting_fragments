@@ -1,5 +1,4 @@
 # React Nesting: Fragments
-
 A React component can only return one single element at the top level. Using a `<div>` sounds like a neutral choice, but can destroy the layout.
 
 Let's dive into it and see how React fragments can help here!
